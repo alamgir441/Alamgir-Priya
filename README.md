@@ -19,7 +19,7 @@ $pip2 install bs4
 
  $pkg install git 
 
-$git clone https://github.com/cyberattack07/alamgirpriyaa.git
+$git cloe https://github.com/alamgir441/Alamgir-Priya.git
 
 $ls 
 
